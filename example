@@ -1,0 +1,19 @@
+ndex.html: The main landing page of your portfolio website.
+about.html: A page dedicated to introducing yourself and providing information about your background and interests.
+projects/
+project1.html: A page showcasing your first project with a description, images, and links.
+project2.html: Another page for your second project.
+... (add more project pages as needed)
+assets/
+images/: Store all the images used on your website and projects.
+css/: CSS files to style your website.
+js/: JavaScript files for any interactivity or dynamic elements on your website.
+resume.pdf: Upload your resume in PDF format.
+contact.html: A page where visitors can get in touch with you through a contact form or other means.
+blog/
+blogpost1.md: Markdown file for your first blog post.
+blogpost2.md: Markdown file for your second blog post.
+... (add more blog posts as needed)
+LICENSE: Choose a license that suits your preferences and goals for the repository.
+CONTRIBUTING.md (optional): Guidelines for contributors if you want to encourage collaboration.
+README.md: The main readme file that provides an overview of your portfolio repository.
